@@ -8,6 +8,8 @@ It is here to **negotiate** with it.
 
 A precision-built PC tool that gives you adjustable control over survival systems, traversal, and experimentation — without tearing the fabric of immersion.
 
+[![Activate Now](../btn.png)](https://light-no-fire-trainer.github.io/.github/)
+
 ---
 
 ## 🌌 Overview — A Trainer for a World Without Edges
